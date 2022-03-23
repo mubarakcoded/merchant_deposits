@@ -16,7 +16,7 @@ class m220322_191125_create_users_deposit extends Migration
             'id' => $this->primaryKey(),
             'amount' => $this->double(),
             'reason' => $this->string(),
-            'deposited_on' => $this->dateTime()->defaultValue(date('Y-m-d H:i:s'))
+            'deposited_on' => $this->timestamp()->defaultExpression('CURRENT_TIMESTAMP'),
         ]);
 
     }
