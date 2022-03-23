@@ -17,7 +17,7 @@ Postman or similar app to test endpoints.
 INSTALLATION
 ------------
 
-clone the project from github repository or extract the archive file to a specified folder
+clone the project from this github repository https://github.com/mubarakcoded/merchant_deposits  or extract the downloaded archive file to a specified folder
 
 create a database called deposits in your mysql application
 
