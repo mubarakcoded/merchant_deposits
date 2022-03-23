@@ -7,8 +7,11 @@ To run this app
 you need to have the following installed on your system
 
 PHP version 7 or higher with the PDO extension enabled.
+
 Composer globally installed
+
 A local database server.MySQL is used in this project.
+
 Postman or similar app to test endpoints.
 
 INSTALLATION
