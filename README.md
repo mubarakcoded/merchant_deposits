@@ -1,6 +1,7 @@
 # merchant_deposits
  
 PRE-REQUISITES
+------------
 
 To run this app
 you need to have the following installed on your system
